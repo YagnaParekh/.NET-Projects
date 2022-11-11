@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab_1_000846481 Soln\Lab_1_000846481\bin\Debug\Lab_1_000846481.exe.config
+C:\Users\User\source\repos\Lab_1_000846481 Soln\Lab_1_000846481\bin\Debug\Lab_1_000846481.exe
+C:\Users\User\source\repos\Lab_1_000846481 Soln\Lab_1_000846481\bin\Debug\Lab_1_000846481.pdb
+C:\Users\User\source\repos\Lab_1_000846481 Soln\Lab_1_000846481\obj\Debug\Lab_1_000846481.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab_1_000846481 Soln\Lab_1_000846481\obj\Debug\Lab_1_000846481.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_1_000846481 Soln\Lab_1_000846481\obj\Debug\Lab_1_000846481.exe
+C:\Users\User\source\repos\Lab_1_000846481 Soln\Lab_1_000846481\obj\Debug\Lab_1_000846481.pdb
+C:\Users\User\Documents\.NET Programming\Labs\Lab_1_000846481 Soln\Lab_1_000846481\obj\Debug\Lab_1_000846481.csproj.AssemblyReference.cache
+C:\Users\User\Documents\.NET Programming\Labs\Lab_1_000846481 Soln\Lab_1_000846481\obj\Debug\Lab_1_000846481.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\.NET Programming\Labs\Lab_1_000846481 Soln\Lab_1_000846481\obj\Debug\Lab_1_000846481.exe
+C:\Users\User\Documents\.NET Programming\Labs\Lab_1_000846481 Soln\Lab_1_000846481\obj\Debug\Lab_1_000846481.pdb
+C:\Users\User\Documents\.NET Programming\Labs\Lab_1_000846481 Soln\Lab_1_000846481\bin\Debug\Lab_1_000846481.exe.config
+C:\Users\User\Documents\.NET Programming\Labs\Lab_1_000846481 Soln\Lab_1_000846481\bin\Debug\Lab_1_000846481.exe
+C:\Users\User\Documents\.NET Programming\Labs\Lab_1_000846481 Soln\Lab_1_000846481\bin\Debug\Lab_1_000846481.pdb
