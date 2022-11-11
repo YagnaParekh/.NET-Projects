@@ -1,0 +1,10 @@
+C:\Users\User\Documents\.NET Programming\Lab5B\Lab5B\bin\Debug\Lab5B.exe.config
+C:\Users\User\Documents\.NET Programming\Lab5B\Lab5B\bin\Debug\Lab5B.exe
+C:\Users\User\Documents\.NET Programming\Lab5B\Lab5B\bin\Debug\Lab5B.pdb
+C:\Users\User\Documents\.NET Programming\Lab5B\Lab5B\obj\Debug\Lab5B.csproj.AssemblyReference.cache
+C:\Users\User\Documents\.NET Programming\Lab5B\Lab5B\obj\Debug\Lab5B.Form1.resources
+C:\Users\User\Documents\.NET Programming\Lab5B\Lab5B\obj\Debug\Lab5B.Properties.Resources.resources
+C:\Users\User\Documents\.NET Programming\Lab5B\Lab5B\obj\Debug\Lab5B.csproj.GenerateResource.cache
+C:\Users\User\Documents\.NET Programming\Lab5B\Lab5B\obj\Debug\Lab5B.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\.NET Programming\Lab5B\Lab5B\obj\Debug\Lab5B.exe
+C:\Users\User\Documents\.NET Programming\Lab5B\Lab5B\obj\Debug\Lab5B.pdb
