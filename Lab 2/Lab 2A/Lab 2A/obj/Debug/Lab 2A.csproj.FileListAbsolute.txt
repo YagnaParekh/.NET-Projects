@@ -1,0 +1,7 @@
+C:\Users\User\Documents\.NET Programming\Lab 2A\Lab 2A\obj\Debug\Lab 2A.csproj.AssemblyReference.cache
+C:\Users\User\Documents\.NET Programming\Lab 2A\Lab 2A\obj\Debug\Lab 2A.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\.NET Programming\Lab 2A\Lab 2A\bin\Debug\Lab 2A.exe.config
+C:\Users\User\Documents\.NET Programming\Lab 2A\Lab 2A\bin\Debug\Lab 2A.exe
+C:\Users\User\Documents\.NET Programming\Lab 2A\Lab 2A\bin\Debug\Lab 2A.pdb
+C:\Users\User\Documents\.NET Programming\Lab 2A\Lab 2A\obj\Debug\Lab 2A.exe
+C:\Users\User\Documents\.NET Programming\Lab 2A\Lab 2A\obj\Debug\Lab 2A.pdb
