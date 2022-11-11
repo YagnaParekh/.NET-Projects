@@ -1,0 +1,7 @@
+C:\Users\User\Documents\.NET Programming\Lab4A\Lab4A\obj\Debug\Lab4A.csproj.AssemblyReference.cache
+C:\Users\User\Documents\.NET Programming\Lab4A\Lab4A\obj\Debug\Lab4A.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\.NET Programming\Lab4A\Lab4A\bin\Debug\Lab4A.exe.config
+C:\Users\User\Documents\.NET Programming\Lab4A\Lab4A\bin\Debug\Lab4A.exe
+C:\Users\User\Documents\.NET Programming\Lab4A\Lab4A\bin\Debug\Lab4A.pdb
+C:\Users\User\Documents\.NET Programming\Lab4A\Lab4A\obj\Debug\Lab4A.exe
+C:\Users\User\Documents\.NET Programming\Lab4A\Lab4A\obj\Debug\Lab4A.pdb
